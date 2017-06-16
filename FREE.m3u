@@ -1,7 +1,9 @@
 ﻿#EXTM3U
 #EXTM3U tvg-logo=Auto url-tvg=http://www.teleguide.info/download/new3/jtv.zip m3uautoload=1 cache=1000
 
- 
+#EXTINF:0 group-title="FREE",CNL UKRAINE 2
+udp://@238.0.0.60:1234
+
 #EXTINF:0 group-title="FREE",CNL UKRAINE
 udp://@238.0.0.60:1234
 
